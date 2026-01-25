@@ -1,0 +1,16 @@
+diff --git a/course-diary.md b/course-diary.md
+index dc6da52..16b14f5 100644
+--- a/course-diary.md
++++ b/course-diary.md
+@@ -1,10 +1 @@
+-# Notes about Git
+-
+-We have both local and remote repositories.
+-A repository consists of working directory, staging area, and the repository pro.
+-
+-## Concepts
+-
+-### Commits
+-
+-A commit is a bundled up set
++test file
