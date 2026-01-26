@@ -1,1 +1,15 @@
-#Files to be ignored
+
+# Nextflow runtime/cache (always ignore)
+work/
+.nextflow/
+.nextflow.log*
+
+# Optional: Nextflow reports (ignore if you don't want to version them)
+timeline.html
+report.html
+trace.txt
+dag.html
+
+# OS/editor noise
+.DS_Store
+.vscode/
